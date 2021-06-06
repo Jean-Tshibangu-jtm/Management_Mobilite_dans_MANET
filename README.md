@@ -11,7 +11,7 @@ par le truchement de d’un réel banc d’essai. Les nouvelles métriques de ro
 
 Mots clés : Ad Hoc, anticipation, ETX, métrique, mobilité, réseau sans fil.
 
-# Outils
+# Outils et langages
 # NS-2, Iperf, C++/C
 
 
