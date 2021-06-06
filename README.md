@@ -1,4 +1,3 @@
-# Management_Mobilite_dans_MANET
 # Management de la mobilité dans MANET
 # Abstract
   Aujourd’hui, avec le succès des communications sans fil, il devient commode d’avoir accès  à un réseau en tous lieux et à n'importe quand sans faire appel physiquement aux différents équipements communicants  à une  infrastructure.  Les nœuds (ordinateurs portables, smartphones, etc) peuvent analyser les différents canaux radio dans l’objet de pouvoir s’associer à un réseau sans fil disponible (station de base, point d’accès, etc.). Un avantage incontestable de ses technologies sans fil est l’amabilité d’être mobile  tout en restant connecté. Nonobstant, la mobilité est une tâche difficile à manager car elle doit être abordée à différentes couches pour être transparente aux utilisateurs. 
